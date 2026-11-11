@@ -1,0 +1,15 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Modelos serializados pesados (opcional: si superan los 100MB de GitHub)
+*.pkl
+
+# VS Code
+.vscode/

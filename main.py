@@ -5,7 +5,6 @@ PROYECTO FINAL INTEGRADOR: APRENDIZAJE AUTOMÁTICO (MACHINE LEARNING)
 Materia: Machine Learning / Especialización en Ciencia de Datos
 Título: Implementación End-to-End de AutoML para Predicción de Churn
 Dominio: Telecomunicaciones / Retención de Clientes
-Enfoque: Profesional, Funcional y Aplicado (Ciclo de Vida de 15 Etapas)
 ===============================================================================
 """
 
